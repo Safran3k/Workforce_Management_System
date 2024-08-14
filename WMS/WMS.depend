@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1723624506 source:c:\users\futo richard\desktop\workforce_management_system\wms\contractor.cpp
+	"contractor.hpp"
+	<sstream>
+
+1723624427 c:\users\futo richard\desktop\workforce_management_system\wms\contractor.hpp
+	"Worker.hpp"
+
+1723625086 c:\users\futo richard\desktop\workforce_management_system\wms\worker.hpp
+	<string>
+
+1723624661 source:c:\users\futo richard\desktop\workforce_management_system\wms\employee.cpp
+	"employee.hpp"
+	<sstream>
+
+1723624625 c:\users\futo richard\desktop\workforce_management_system\wms\employee.hpp
+	"worker.hpp"
+
+1723624406 source:c:\users\futo richard\desktop\workforce_management_system\wms\main.cpp
+	<iostream>
+	"menu.hpp"
+
+1723624809 c:\users\futo richard\desktop\workforce_management_system\wms\menu.hpp
+	<vector>
+	"worker.hpp"
+
+1723624765 source:c:\users\futo richard\desktop\workforce_management_system\wms\manager.cpp
+	"manager.hpp"
+	<sstream>
+
+1723624729 c:\users\futo richard\desktop\workforce_management_system\wms\manager.hpp
+	"worker.hpp"
+
+1723624834 source:c:\users\futo richard\desktop\workforce_management_system\wms\menu.cpp
+	"menu.hpp"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"worker.hpp"
+	"employee.hpp"
+	"contractor.hpp"
+	"manager.hpp"
+	"stoi.hpp"
+	"stodate.hpp"
+	"stod.hpp"
+
+1723625014 c:\users\futo richard\desktop\workforce_management_system\wms\stoi.hpp
+	<string>
+
+1723624954 c:\users\futo richard\desktop\workforce_management_system\wms\stodate.hpp
+	<string>
+
+1723624883 c:\users\futo richard\desktop\workforce_management_system\wms\stod.hpp
+	<string>
+
+1723624906 source:c:\users\futo richard\desktop\workforce_management_system\wms\stod.cpp
+	"stod.hpp"
+	<regex>
+	<stdexcept>
+	<string>
+
+1723624976 source:c:\users\futo richard\desktop\workforce_management_system\wms\stodate.cpp
+	"stodate.hpp"
+	<regex>
+	<stdexcept>
+
+1723625053 source:c:\users\futo richard\desktop\workforce_management_system\wms\stoi.cpp
+	<stdlib.h>
+	<regex>
+	<stdexcept>
+
+1723625108 source:c:\users\futo richard\desktop\workforce_management_system\wms\worker.cpp
+	"worker.hpp"
+
